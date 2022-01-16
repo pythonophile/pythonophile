@@ -6,3 +6,5 @@ Here are some basic projects for bigenners
 5) Positive Or Negative
 6) Area Of Circle
 7) Simple Interest
+8) Swap Two Numbers
+9) ASCII Value
