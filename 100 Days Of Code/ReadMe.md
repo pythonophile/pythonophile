@@ -1,2 +1,2 @@
 #100_Days_Of_Code
-1. Band Name Generator Project
+1. Day One Band Name Generator Project
