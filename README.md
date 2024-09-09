@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on...-->
-I am student of AI in AJK university.
+Machine Learning, Deep Learning, LLMs, NLP, Generative AI etc.
 - 🌱 I’m currently learning C++ and Python ...
 
 <!--- 👯 I’m looking to collaborate on ...
