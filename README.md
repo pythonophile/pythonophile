@@ -1,6 +1,6 @@
 MS Computer Science |
 BS Telecommunication Engineer |
-Head of AI Department |
+Head of AI Department at NUEXUS |
 Advance Python Programmer |
 Machine Learning & Deep Learning Specialist |
 Master Web scraping and Automation using BS4 & Selenium |
@@ -16,4 +16,4 @@ Project Management simplified from NASBA and PMI |
 Open CV or CV2 |
 Scikit-Learn |
 Scrum Alliance Certified |
-Certified C++ Programmer from CISCO |
+Certified C++ Programmer from CISCO
