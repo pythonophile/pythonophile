@@ -19,7 +19,7 @@
 - **Scrum Alliance Certified**
 - **Certified C++ Programmer from CISCO**
 
-You can view my achievements and certifications in my [Achievements Repository](https://github.com/pythonophile/my-achievements).
+You can view my achievements and certifications in my [Achievements Repository](https://github.com/pythonophile/my-achivements).
 
 ---
 
