@@ -23,6 +23,16 @@ You can view my achievements and certifications in my [Achievements Repository](
 
 ---
 
+## 📥 Download My CV:
+
+<div align="center">
+  <a href="./cv/MRK CV.pdf" download="MRK CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
+  </a>
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 - **Languages**: Python, C++, HTML, CSS, JavaScript
