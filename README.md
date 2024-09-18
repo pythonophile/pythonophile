@@ -36,8 +36,9 @@ You can view my achievements and certifications in my [Achievements Repository](
 ## 💻 Tech Stack
 
 - **Languages**: Python, C++, HTML, CSS, JavaScript
-- **Libraries/Frameworks**: Pandas, Numpy, Scikit-Learn, OpenCV (CV2), Selenium, BeautifulSoup, Matplotlib, Streamlit, Seaburn, requests, xml, Tensor Flow, Keras
-- **Tools**: Jupyter Notebooks, Git, Docker, VS Code, Pycharm, Jupyter Lab, Google Colab, Kaggle, DEV C++, 
+- **Libraries/Frameworks**: Pandas, Numpy, Scikit-Learn, OpenCV (CV2), Selenium, BeautifulSoup, Matplotlib, Streamlit, Seaburn, requests, lxml, 
+                            Tensor Flow, Keras, Deep Face, Django, Flask, MongoDB, SQLite
+- **Tools**: Jupyter Notebooks, Git, Docker, VS Code, Pycharm, Jupyter Lab, Google Colab, Kaggle, DEV C++
 - **Methodologies**: Agile, Scrum, Project Management
 
 ---
