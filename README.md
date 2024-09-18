@@ -13,11 +13,13 @@
 - **Generative AI in Learning and Development from PMI**
 - **Project Management Foundations**
 - **Python for Non-Programmers**
-- **Project Management simplified from NASBA and PMI**
+- **Project Management Simplified from NASBA and PMI**
 - **Scikit-Learn & OpenCV Specialist**
 - **Scrum: Advanced Certification**
 - **Scrum Alliance Certified**
 - **Certified C++ Programmer from CISCO**
+
+You can view my achievements and certifications in my [Achievements Repository](https://github.com/pythonophile/my-achievements).
 
 ---
 
